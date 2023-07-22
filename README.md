@@ -3,7 +3,7 @@
 <h3 align="center">第一题.使用Vue element admin，springboot，mysql，实现职工信息的管理功能：</h3>
 <p>1.此项目使用了若依框架进行搭建，集成了mybatisplus，hutool，lombok,swagger进行开发。其中删除了若依自带的代码生成模块和定时任务模块</p>
 <p>2.具体步骤：创建库huang-li-test，直接导入huang-li-test.sql文件，修改一下数据库连接和redis连接即可，或者直接使用代码的环境。启动RuoYiApplication。
-前端直接打开ruoyi-ui，然后npm install后直接运行即可。前端使用了80端口，后端为8080端口。</p>
+前端直接打开ruoyi-ui，然后npm install后直接运行即可。前端使用了80端口，后端为8080端口。系统默认登录密码   admin     admin123</p>
 
 ![img_1.png](img_1.png)
 
